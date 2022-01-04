@@ -1,7 +1,7 @@
 body
 {
   font-family: 'Corinthia';
-  background: #49494b;
+  background: #9797e0;
 }
 
 .header_div
@@ -27,7 +27,7 @@ body
   
   .copy_right_footer {
    position: fixed;
-   color: #d0dbe6;
+   color: #2d79c5;
    bottom: 0;
    width: 100%;
    font-size: 18px;
